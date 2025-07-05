@@ -5,13 +5,13 @@ My AI Engineering Master's Projects - Deep Learning applied with PyTorch
 GourmetAI Inc. — Deep Learning per la Classificazione di Immagini di Cibo
 
 
-📌 Descrizione del Progetto
+📌 DESCRIZIONE DEL PROGETTO
 
 Questo progetto nasce dall’esigenza di GourmetAI Inc., azienda leader nella tecnologia alimentare, di migliorare accuratezza ed efficienza nei sistemi di riconoscimento e classificazione automatica di immagini di cibo.
 L’obiettivo è sviluppare un modello deep learning ottimizzato per supportare applicazioni aziendali e migliorare l’esperienza utente.
 
 
-🎯 Obiettivi
+🎯 OBIETTVI
 
 ✅ Implementare tecniche di data augmentation per aumentare la variabilità del dataset
 
@@ -26,7 +26,7 @@ L’obiettivo è sviluppare un modello deep learning ottimizzato per supportare 
 ✅ Eseguire un test finale per valutare le performance del modello.
 
 
-📈 Benefici Attesi
+📈 BENEFICI ATTESI
 
 ⚡ Miglioramento dell’esperienza utente nelle app di riconoscimento immagini
 
@@ -38,7 +38,7 @@ L’obiettivo è sviluppare un modello deep learning ottimizzato per supportare 
 
 
 
-🧠 Tecnologie Utilizzate
+🧠 TECNOLOGIE UTILIZZATE
 
 Python • TensorFlow / PyTorch
 
@@ -52,7 +52,7 @@ Data Augmentation (rotation, flipping, brightness, ecc.)
 
 
 
-🗂️ Dataset
+🗂️ DATASET
 
 Il dataset utilizzato è disponibile al seguente link:
 https://proai-datasets.s3.eu-west-3.amazonaws.com/dataset_food_classification.zip
