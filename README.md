@@ -4,10 +4,12 @@ My AI Engineering Master's Projects - Deep Learning applied with PyTorch
 🍽️ Ottimizzazione delle Prestazioni di una Rete Neurale per il Settore Food
 GourmetAI Inc. — Deep Learning per la Classificazione di Immagini di Cibo
 
+
 📌 Descrizione del Progetto
 
 Questo progetto nasce dall’esigenza di GourmetAI Inc., azienda leader nella tecnologia alimentare, di migliorare accuratezza ed efficienza nei sistemi di riconoscimento e classificazione automatica di immagini di cibo.
 L’obiettivo è sviluppare un modello deep learning ottimizzato per supportare applicazioni aziendali e migliorare l’esperienza utente.
+
 
 🎯 Obiettivi
 
@@ -23,6 +25,7 @@ L’obiettivo è sviluppare un modello deep learning ottimizzato per supportare 
 
 ✅ Eseguire un test finale per valutare le performance del modello.
 
+
 📈 Benefici Attesi
 
 ⚡ Miglioramento dell’esperienza utente nelle app di riconoscimento immagini
@@ -32,6 +35,8 @@ L’obiettivo è sviluppare un modello deep learning ottimizzato per supportare 
 🚀 Promozione dell’innovazione tecnologica in ambito food tech
 
 🏆 Supporto agli obiettivi di business di GourmetAI Inc
+
+
 
 🧠 Tecnologie Utilizzate
 
@@ -44,6 +49,7 @@ CNN + Transfer Learning (es. EfficientNet, ResNet...)
 Tecniche di regularizzazione (Dropout, Early Stopping...)
 
 Data Augmentation (rotation, flipping, brightness, ecc.)
+
 
 
 🗂️ Dataset
