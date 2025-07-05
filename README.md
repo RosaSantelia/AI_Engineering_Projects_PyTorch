@@ -46,9 +46,9 @@ Google Colab
 
 CNN + Transfer Learning (es. EfficientNet, ResNet...)
 
-Tecniche di regularizzazione (Dropout, Early Stopping...)
+Tecniche di regolarizzazione (Dropout, Early Stopping...)
 
-Data Augmentation (rotation, flipping, brightness, ecc.)
+Data Augmentation (rotation, flipping, brightness...)
 
 
 
